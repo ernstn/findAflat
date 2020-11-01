@@ -1,0 +1,10 @@
+/*
+!app.py
+!README.md
+!requirements.txt
+!.gitignore
+!/findAflat
+/findAflat/*
+!/findAflat/flat_finder.py
+!/findAflat/lambda_function.py
+!/findAflat/requirements.txt

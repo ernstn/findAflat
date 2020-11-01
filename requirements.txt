@@ -1,0 +1,6 @@
+aws_cdk.core==1.70.0
+aws_cdk.aws_dynamodb==1.70.0
+aws_cdk.aws_lambda==1.70.0
+aws_cdk.aws_sns==1.70.0
+aws_cdk.aws_events==1.70.0
+aws_cdk.aws_events_targets==1.70.0

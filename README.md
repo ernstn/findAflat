@@ -1,8 +1,8 @@
-This project is using *AWS Cloud Development Kit*. Please follow the installation guide to install [AWS CDK Toolkit](https://cdkworkshop.com/15-prerequisites.html)
+This project uses *AWS Cloud Development Kit*. Please follow the installation guide to install [AWS CDK Toolkit](https://cdkworkshop.com/15-prerequisites.html)
 
 Install dependencies for the project by calling  
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt -t .
 ```
 from findAflat folder.
 
